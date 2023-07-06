@@ -24,7 +24,7 @@
 
             <Label FontSize="15" HorizontalOptions="Center" Padding="10,10,10,10" Text="Ingrese el numero entero"/>
 
-            <!-- Creamos 5 Entry para ingresar las calificaciones requeridas  -->
+            <!-- Creamos un Entry para ingresar el número entero -->
 
             <Entry Margin="10,10,10,10" Placeholder="Numero entero" x:Name="NumeroEnteroEntry" />
 
